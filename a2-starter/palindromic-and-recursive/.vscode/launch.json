@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RPal",
+            "request": "launch",
+            "mainClass": "RPal",
+            "projectName": "palindromic-and-recursive_a0496c"
+        }
+    ]
+}

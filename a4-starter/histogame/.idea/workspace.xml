@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1ce315d-c3cc-4b7f-8400-e90b387bb5d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/game/Formable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/game/IDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/game/TextTwist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/game/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/game/WordDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/histogram/Histogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/histogram/SimpleHistogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/histogram/SimpleHistogramTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/histogram.SimpleHistogramTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/histogram.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/linuxwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-histogram.SimpleHistogramTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/TextTwist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/TextTwist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/WordDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/WordDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/build/classes/java/main/TileDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/build/classes/java/main/TileDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/src/main/java/BasicBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/src/main/java/BasicBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smallman/src/main/java/TileDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smallman/src/main/java/TileDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cp_proj40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cp_proj40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/proj40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/proj40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2-bin.zip.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unused file/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../unused file/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unused file/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unused file/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unused file/mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unused file/mergesort.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1S4VAkatqUyIGzTVSWUA82DzoyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../m1-starter/bookshelf" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordDatabase">
+    <configuration name="TextTwist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.TextTwist" />
+      <module name="histogame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Word" />
+      <module name="histogame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.WordDatabase" />
+      <module name="histogame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleHistogramTest.testHistogram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;histogram.SimpleHistogramTest.testHistogram&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextTwist" />
+        <item itemvalue="Gradle.SimpleHistogramTest.testHistogram" />
+        <item itemvalue="Application.WordDatabase" />
+        <item itemvalue="Application.Word" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ce315d-c3cc-4b7f-8400-e90b387bb5d4" name="Default Changelist" comment="" />
+      <created>1570822713902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570822713902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

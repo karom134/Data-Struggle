@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cab49b5e-7f36-4e65-bcee-c749c433be10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/IJTestEventLogger$_logTestEvent_closure6$_closure8$_closure9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/IJTestEventLogger$_logTestEvent_closure6$_closure8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/IJTestEventLogger$_logTestEvent_closure6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/IJTestEventLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/ijresolvers_dzi9ahi5je19t3ev75cq4e2in$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/ijresolvers_dzi9ahi5je19t3ev75cq4e2in$_run_closure1$_closure3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/ijresolvers_dzi9ahi5je19t3ev75cq4e2in$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/classes/ijresolvers_dzi9ahi5je19t3ev75cq4e2in.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/cp_init40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/classes/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/classes/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/classes/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0$_run_closure1$_closure3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/classes/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/classes/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijtestinit_3s3gfj6vjrpb2zvaaz8ckexv0/97u9qm46y2hl0ss8a9ot2pwcf/init40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/cp_proj40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/cp_proj/cp_proj40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/60piknskk2a9ts80yzq8tt1ws/proj/proj40e7ec637808a9c747559d26950b1d9b/proj40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/cp_init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/cp_init/cp_init40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure1$_closure3$_closure4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure1$_closure3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/classes/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/97u9qm46y2hl0ss8a9ot2pwcf/init/init40e7ec637808a9c747559d26950b1d9b/init40e7ec637808a9c747559d26950b1d9b.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2-bin.zip.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/TileDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/TileDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TileDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TileDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/md-rule/md-rule.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/md-supplier/md-supplier.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijinit_1j8w8vsejf9s2vdrc1l560fn/85cqqg79qi0ifj13633rifh8k/init22fcdb492374dc80ff68471109320d2b/classes/RegistryProcessor$_extraModelBuilderIsRegistered_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijinit_1j8w8vsejf9s2vdrc1l560fn/85cqqg79qi0ifj13633rifh8k/init22fcdb492374dc80ff68471109320d2b/classes/RegistryProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijinit_1j8w8vsejf9s2vdrc1l560fn/85cqqg79qi0ifj13633rifh8k/init22fcdb492374dc80ff68471109320d2b/classes/ijinit_1j8w8vsejf9s2vdrc1l560fn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijinit_1j8w8vsejf9s2vdrc1l560fn/85cqqg79qi0ifj13633rifh8k/init22fcdb492374dc80ff68471109320d2b/init22fcdb492374dc80ff68471109320d2b.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijinit_1j8w8vsejf9s2vdrc1l560fn/85cqqg79qi0ifj13633rifh8k/init22fcdb492374dc80ff68471109320d2b/metadata/metadata.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts-remapped/ijresolvers_dzi9ahi5je19t3ev75cq4e2in/cuq3r1igp2hdps89r8sb2wgf4/init40e7ec637808a9c747559d26950b1d9b/metadata/metadata.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/85cqqg79qi0ifj13633rifh8k/init/init22fcdb492374dc80ff68471109320d2b/classes/JetGradlePlugin$_apply_closure1$_closure2$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/85cqqg79qi0ifj13633rifh8k/init/init22fcdb492374dc80ff68471109320d2b/classes/JetGradlePlugin$_apply_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/5.6.2/scripts/85cqqg79qi0ifj13633rifh8k/init/init22fcdb492374dc80ff68471109320d2b/classes/JetGradlePlugin$_apply_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/jars-3/e22071f0f647bfca187dcad0e9b116ad/gradle-api-impldep-5.2.1-sp1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/jars-3/e7cf29ee4e9099e5a486424dcaa09cdf/gradle-api-5.2.1-sp1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/jars-3/eae6037b1c5524c9a06a2230a26e87cd/kotlin-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/jars-3/f2514d650182edab49a3cf8ef20286bf/gradle-tooling-extension-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/modules-2/metadata-2.71/descriptors/org.hamcrest/hamcrest-parent/1.3/f82a8259340803bc58fb8c686ca12ad9/descriptor.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/caches/modules-2/metadata-2.71/module-artifact.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/failureaccess-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/fastutil-8.2.1-min.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/gradle-runtime-api-info-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/gradle-snapshots-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/gradle-tooling-api-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/gradle-worker-processes-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/gradle-wrapper-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-linux-amd64-ncurses6-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-linux-i386-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-linux-i386-ncurses5-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-linux-i386-ncurses6-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-windows-amd64-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-windows-amd64-min-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-windows-i386-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/native-platform-windows-i386-min-0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-jacoco-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-javascript-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-kotlin-dsl-provider-plugins-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-kotlin-dsl-tooling-builders-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-language-groovy-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-language-java-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-language-jvm-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-signing-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-test-kit-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-testing-base-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-testing-junit-platform-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/gradle-testing-native-5.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/maven-model-builder-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/lib/plugins/maven-plugin-api-3.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/media/gradle-icon-24x24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/media/gradle-icon-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1-starter/priorityqueue/wrapper/dists/gradle-5.6.2-bin/3clyn6icets6f02ptgd5hlmou/gradle-5.6.2/media/gradle-icon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unused file/mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unused file/mergesort.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1S10IDM43myaClmdcCsnI1jGtw6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../histogame" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TileDriver">
+    <configuration name="Midway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Midway" />
+      <module name="smallman.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TileDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TileDriver" />
+      <module name="smallman.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Midway" />
+        <item itemvalue="Application.TileDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cab49b5e-7f36-4e65-bcee-c749c433be10" name="Default Changelist" comment="" />
+      <created>1570715712071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570715712071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoubleTrouble",
+            "request": "launch",
+            "mainClass": "DoubleTrouble",
+            "projectName": "a6_e4098048"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Last",
+            "request": "launch",
+            "mainClass": "Last",
+            "projectName": "a6_e4098048"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zombies",
+            "request": "launch",
+            "mainClass": "Zombies",
+            "projectName": "a6_e4098048"
+        }
+    ]
+}

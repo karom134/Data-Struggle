@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Heaptree",
+            "request": "launch",
+            "mainClass": "Heaptree",
+            "projectName": "unused file_e17ce93"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - mergesort",
             "request": "launch",
             "mainClass": "mergesort",

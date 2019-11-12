@@ -54,6 +54,6 @@ public class Zombies {
         }
     }
     public static void main(String arg[]){
-        System.out.println(Zombies.countBad(new int[]{1, 7, 22, 13, 25, 4, 10, 34, 16, 28, 19, 31}));
+        System.out.println(Zombies.countBad(new int[]{5,4,11,7}));
     }
 }

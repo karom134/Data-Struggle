@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Uproot",
+            "request": "launch",
+            "mainClass": "Uproot",
+            "projectName": "a7-starter_1b8d4b0b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeTree",
+            "request": "launch",
+            "mainClass": "MakeTree",
+            "projectName": "a7-starter_1b8d4b0b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiwayMerge",
+            "request": "launch",
+            "mainClass": "MultiwayMerge",
+            "projectName": "a7-starter_1b8d4b0b"
+        }
+    ]
+}

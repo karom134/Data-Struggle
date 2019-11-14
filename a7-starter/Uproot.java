@@ -9,17 +9,17 @@ public class Uproot {
     public static HashMap<Integer, Integer> helper(HashMap<Integer, Integer> map, BinaryTreeNode tree, Integer previous){
         if(tree!=null){
             if(previous==null){
-                HashMap<Integer, Integer> map_left=helper(map, tree.left,tree.key);
-                HashMap<Integer, Integer> map_right=helper(map,tree.right,tree.key);
-                map.putAll(map_left);
-                map.putAll(map_right);
+                helper(map, tree.left,tree.key);
+                helper(map,tree.right,tree.key);
+                /*map.putAll(map_left);
+                map.putAll(map_right);*/
             }
             else{
                 map.put(tree.key,previous);
-                HashMap<Integer, Integer> map_left=helper(map, tree.left,tree.key);
-                HashMap<Integer, Integer> map_right=helper(map,tree.right,tree.key);
-                map.putAll(map_left);
-                map.putAll(map_right);
+                helper(map, tree.left,tree.key);
+                helper(map,tree.right,tree.key);
+                /*map.putAll(map_left);
+                map.putAll(map_right);*/
             }
         }
         return map;
@@ -76,7 +76,7 @@ public class Uproot {
         return tree;
     }
     public static void main (String arg[]){
-        BinaryTreeNode test_left=new BinaryTreeNode(5);
+        BinaryTreeNode test_left=new BinaryTreeNode(new BinaryTreeNode(6),5, new BinaryTreeNode(8));
         BinaryTreeNode test_right=new BinaryTreeNode(2);
         BinaryTreeNode test=new BinaryTreeNode(test_left,3,test_right);
         System.out.println(treeToParentMap(test).toString());//test with very simple tree.

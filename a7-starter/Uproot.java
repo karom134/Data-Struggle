@@ -69,7 +69,7 @@ public class Uproot {
                 tree.left=new BinaryTreeNode(leftnode);
                 treeconstructor(map, tree.left, leftnode);
                 Integer rightnode=map.get(root).get(1);
-                tree.right=new BinaryTreeNode(leftnode);
+                tree.right=new BinaryTreeNode(rightnode);
                 treeconstructor(map, tree.right, rightnode);
             }
         }
